@@ -57,16 +57,11 @@ I like working across the boundary between engineering and creativity — from d
 
 ## Selected public work
 
-<div align="center">
-  <a href="https://github.com/2N3ll/2null-skills-collection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2N3ll&repo=2null-skills-collection&theme=transparent&hide_border=true&title_color=67e8f9&text_color=cbd5e1&icon_color=a78bfa" alt="2null-skills-collection repository card" />
-  </a>
-  <a href="https://github.com/2N3ll/TikerinoClientArchives">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2N3ll&repo=TikerinoClientArchives&theme=transparent&hide_border=true&title_color=67e8f9&text_color=cbd5e1&icon_color=a78bfa" alt="TikerinoClientArchives repository card" />
-  </a>
-</div>
+<!-- PROJECTS:START -->
 
-> These are selected public repositories. More experiments and projects will appear here as they become ready to share.
+_Projects are refreshed automatically from public repositories._
+
+<!-- PROJECTS:END -->
 
 ## GitHub activity
 
