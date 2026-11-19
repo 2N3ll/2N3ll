@@ -1,3 +1,22 @@
+<!-- ACCOUNT-MOVED:START -->
+<div align="center">
+
+# 🚀 I've moved!
+
+This GitHub account is no longer my active profile.
+
+**I've moved to [@35ni](https://github.com/35ni)** — my relevant projects and ongoing work are now there.
+
+<a href="https://github.com/35ni">
+  <img src="https://img.shields.io/badge/Visit_my_new_GitHub-@35ni-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Visit @35ni on GitHub" />
+</a>
+
+</div>
+
+---
+
+<!-- ACCOUNT-MOVED:END -->
+
 <!-- 2N3ll · GitHub Profile -->
 
 <div align="center">
