@@ -65,7 +65,7 @@ def main():
     api_root = f"{API}/repos/{repo}/contents/{README_PATH}"
 
     repositories = api_request(
-        f"{API}/users/{owner}/repos?type=owner&sort=updated&per_page=100",
+        f"{API}/users/{owner}/repos?type=public&sort=updated&per_page=100",
         token,
     )
     readme = api_request(api_root, token)
