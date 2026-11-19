@@ -59,7 +59,10 @@ I like working across the boundary between engineering and creativity — from d
 
 <!-- PROJECTS:START -->
 
-_Projects are refreshed automatically from public repositories._
+| Project | Description | Language | Stars |
+|:--|:--|:--:|--:|
+| [**2null-skills-collection**](https://github.com/2N3ll/2null-skills-collection) | Collection of reusable AI agent skills and developer workflows. | — | ⭐ 0 |
+| [**TikerinoClientArchives**](https://github.com/2N3ll/TikerinoClientArchives) | Public client archives and related resources. | — | ⭐ 0 |
 
 <!-- PROJECTS:END -->
 
